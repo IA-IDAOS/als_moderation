@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+transformers
+scikit-learn
+python-dotenv
+bcrypt
+requests
+streamlit-authenticator
+numpy
